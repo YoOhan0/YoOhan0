@@ -1,6 +1,6 @@
 ## My Repositories For WorkLoad 👋
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksdygks359)](https://solved.ac/wke1wke1)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksdygks359)](https://solved.ac/gksdygks359)
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
